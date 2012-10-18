@@ -1,0 +1,27 @@
+[submodule ".vim/bundle/vim-mxml"]
+	path = .vim/bundle/vim-mxml
+	url = git://github.com/evandrewry/vim-mxml.git
+[submodule ".vim/bundle/vim-x10"]
+	path = .vim/bundle/vim-x10
+	url = git://github.com/evandrewry/vim-x10.git
+[submodule ".vim/bundle/vim-powerline"]
+	path = .vim/bundle/vim-powerline
+	url = git://github.com/Lokaltog/vim-powerline.git
+[submodule ".vim/bundle/nerdtree"]
+	path = .vim/bundle/nerdtree
+	url = git://github.com/scrooloose/nerdtree.git
+[submodule ".vim/bundle/vim-gummybears-colorscheme"]
+	path = .vim/bundle/vim-gummybears-colorscheme
+	url = git://github.com/jelera/vim-gummybears-colorscheme.git
+[submodule ".vim/bundle/vim-colors-solarized"]
+	path = .vim/bundle/vim-colors-solarized
+	url = git://github.com/altercation/vim-colors-solarized.git
+[submodule ".vim/bundle/vim-actionscript"]
+	path = .vim/bundle/vim-actionscript
+	url = git://github.com/jeroenbourgois/vim-actionscript.git
+[submodule ".vim/bundle/tagbar"]
+	path = .vim/bundle/tagbar
+	url = git://github.com/majutsushi/tagbar.git
+[submodule ".vim/bundle/nerdcommenter"]
+	path = .vim/bundle/nerdcommenter
+	url = git://github.com/scrooloose/nerdcommenter.git
