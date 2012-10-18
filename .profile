@@ -3,6 +3,7 @@ alias ack='ack-5.12'
 
 #ll alias
 alias ll='ls -laG'
+alias ls='ls -G'
 
 #MacVim alias
 alias vim='mvim -v'
