@@ -53,6 +53,9 @@ export AUTOJUMP_KEEP_SYMLINKS=1
 #path to betterment scripts 
 PATH=$PATH:~/wkspc/betterment/etc/development/scripts/
 
+#cmus
+PATH=$HOME/cmus/bin/:$PATH
+
 export JAVA_HOME
 export CATALINA_HOME
 export SQLPATH
